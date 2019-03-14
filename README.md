@@ -1,4 +1,4 @@
-## Flight Checking Application
+## Flight Check In Application
 
 This application is a integration layer of Flight 
 Reservation Application.
